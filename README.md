@@ -10,7 +10,7 @@
     ```
     2. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/quantum-computing-tutorials.git
+    git clone https://github.com/dkrizhanovskyi/quantum-computing-tutorials.git
     ```
     3. Navigate to the tutorials directory and start exploring:
     ```bash
